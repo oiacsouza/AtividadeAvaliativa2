@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AtividadeAvaliativa2</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="txt_botao_enter">Entrar</string>
+    <string name="txt_tela_login">Primeira vez na Capachungos? Cadastre-se</string>
+    <string name="txt_tela_loading">Capachungos</string>
+</resources>
